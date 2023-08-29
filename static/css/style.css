@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Finger+Paint&family=Gluten:wght@500&family=Pacifico&family=Quicksand:wght@300&display=swap');
+
+body{ 
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 8%, rgba(32,31,31,1) 17%, rgba(37,36,37,1) 24%, rgba(46,45,46,1) 33%, rgba(54,53,54,1) 41%, rgba(63,62,63,1) 47%, rgba(69,69,69,1) 52%, rgba(72,73,74,1) 56%, rgba(94,97,98,1) 77%, rgba(104,107,108,1) 86%, rgba(104,107,108,1) 86%, rgba(107,110,111,1) 89%, rgba(107,110,111,1) 89%);
+ }
+
+.logo_text{
+    font-weight: bold;
+    color: white;
+    font-family: 'Gluten', cursive;
+    font-size: 2vh;
+}
+
+.chooser{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+
+.video_player_box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.video_player{
+    box-shadow: 60px 60px 10px white;
+    position: relative;
+}
+
+.video_title{
+    color: rgb(186, 171, 73);
+    text-align: center;
+    margin-top: 10vh ;
+}
+
+#videos{
+    color: white;
+}
+
+footer{ 
+    margin-top: 20px;
+    color: aliceblue;
+    text-align: center; 
+}

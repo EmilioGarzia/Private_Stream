@@ -49,9 +49,11 @@ pip install flask
 
 # How to use
 
-Choose your video or movie into the menù and after click on the **"SELEZIONA"** button.
+Choose your video or movie into the menù and watch your video.
 
 !["screenshot of view"](static/SVG/screenshot.png)
+
+⚠: The "SELEZIONA" button showed into the screen has been removed with a patch.
 
 # Developer
 

@@ -53,7 +53,7 @@ Choose your video or movie into the menù and watch your video.
 
 !["screenshot of view"](static/SVG/screenshot.png)
 
-⚠: The "SELEZIONA" button showed into the screen has been removed with a patch.
+⚠: The "SELEZIONA" button showed into the screenshot has been removed with a patch.
 
 # Developer
 

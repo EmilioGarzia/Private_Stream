@@ -1,8 +1,8 @@
 # Private Stream
 
-This software is a simple streaming platform where the user can upload their movie or videos on their server.  
+This software is a simple streaming platform where the user can upload its movies or videos on its server.  
   
-I know that online you can find best alternatives to this, but i programmed this software especially to train my coding skills at server side.
+I know that online you can find best alternatives to this, but I programmed this software especially to empower my coding skills at server side.
 
 # How to upload video on the server
 
